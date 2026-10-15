@@ -13,3 +13,28 @@ In VS code
 ![alt text](image-4.png)
 
 ![alt text](image-5.png)
+
+![alt text](image-6.png) 
+
+Install Playwright:
+
+npm init playwright@latest
+
+![alt text](image-7.png)
+
+Install Playwright MCP:
+
+Refer: https://playwright.dev/docs/getting-started-mcp
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
+
+For MCP Server installation => Refer: https://github.com/microsoft/playwright-mcp 
+
+![alt text](image-10.png)
+
+![alt text](image-11.png)
+
+
+
