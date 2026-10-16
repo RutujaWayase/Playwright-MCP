@@ -46,3 +46,6 @@ For MCP Server installation => Refer: https://github.com/microsoft/playwright-mc
 
 ![alt text](image-16.png)
 
+![alt text](image-17.png)
+
+ 
